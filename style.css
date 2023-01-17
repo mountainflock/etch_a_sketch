@@ -2,8 +2,7 @@
   box-sizing: border-box;
 }
 
-#container {
+.grid {
   display: flex;
   flex-wrap: wrap;
-  width: 640px;
 }
